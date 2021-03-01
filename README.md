@@ -2,8 +2,8 @@
 
 ## DOM
 
-- [How We Write JS In Web](https://github.com/napatwongchr/intro-to-react/blob/main/lessons/1-how-we-write-js.md)
-- [DOM](https://github.com/napatwongchr/intro-to-react/blob/main/lessons/2-dom.md)
+- [How We Write JS In Web](https://github.com/phakhawatr/intro-to-react/blob/main/lessons/1-how-we-write-js.md)
+- [DOM](https://github.com/phakhawatr/intro-to-react/blob/main/lessons/2-dom.md)
 
 <br><hr><br>
 
